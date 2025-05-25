@@ -1,5 +1,3 @@
-const { text } = require("express");
-
 const questions = [
     {
         question: "Which country has 3 capital cities?",
