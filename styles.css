@@ -69,3 +69,11 @@ body {
     border-radius: 7px;
     cursor: pointer;
 }
+
+.correct {
+    background: rgb(64, 177, 64);
+}
+
+.incorrect {
+    background: rgb(225, 78, 78);
+}
