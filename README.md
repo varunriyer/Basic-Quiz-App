@@ -1,4 +1,4 @@
-﻿# Basic Quiz App
+﻿# Simple Quiz App
 
 A simple and interactive quiz application built using **HTML**, **CSS**, and **JavaScript**. This project serves as a foundational exercise to understand DOM manipulation, event handling, and dynamic content rendering in web development.
 
@@ -17,7 +17,7 @@ The Basic Quiz App presents users with a series of multiple-choice questions. Us
 ## 📂 Project Structure
 
 ```
-Basic-Quiz-App/
+Simple-Quiz-App/
 ├── index.html        # Main HTML file
 ├── styles.css        # Styling for the application
 └── script.js         # JavaScript logic for quiz functionality
@@ -32,13 +32,13 @@ To run the application locally, follow these steps:
    Open your terminal and execute:
 
    ```bash
-   git clone https://github.com/varunriyer/Basic-Quiz-App.git
+   git clone https://github.com/varunriyer/Simple-Quiz-App.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd Basic-Quiz-App
+   cd Simple-Quiz-App
    ```
 
 3. **Open the Application**
